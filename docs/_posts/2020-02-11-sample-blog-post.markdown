@@ -7,6 +7,8 @@ categories: notice bob
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae ligula dignissim risus ullamcorper convallis id et est. Donec imperdiet, eros ac posuere pretium, libero nulla faucibus est, non gravida lacus est a enim. Vestibulum vel aliquam massa. Curabitur lectus lectus, convallis varius lobortis ac, rhoncus placerat est. Proin vehicula eros eu risus venenatis, eget iaculis nulla semper. Sed ut consectetur ipsum, vitae viverra erat. Sed nec tellus id risus congue porttitor. In diam ex, posuere vel sem at, accumsan fringilla justo. Ut eget libero eget elit sagittis porttitor ac a elit.
 
+Check out my podcast!
+
 <div
   class="whooshkaa-widget-player"
   data-show-id="10955"
